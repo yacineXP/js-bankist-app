@@ -5,7 +5,6 @@
 <h1 align="center">
   Bankist App
   <br>
-  <br>
 <p  align="center">
 <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="44"  height="52"/> </a><a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="44"  height="52"/> </a><a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="44"  height="44"/> </a>
 </p>
@@ -70,6 +69,6 @@ const displayMovements = function (acc, sort = false) {
 Here is an example of a function called **displayMovements** that takes an object representing a bank account ```(acc)``` and a boolean value indicating whether to sort the movements by amount ```(sort)```. It clears a container element and then generates HTML strings for each movement using data from the acc object. Finally, it inserts the HTML strings into the container element to display the movements on a web page. This function is useful for displaying account movements in an organized way.
 
 ## 📚 Acknowledgements 
-This project was created with the help of the book **"Spring in Action"** by **Craig Walls** and **Ryan Breidenbach**. Many of the concepts and techniques used in this project were learned from this valuable resource.
+This project was created with the help of the course **"The Complete JavaScript Course 2023: From Zero to Expert!"** by **Jonas Schmedtmann**. Many of the concepts and techniques used in this project were learned from this valuable resource.
 
 
